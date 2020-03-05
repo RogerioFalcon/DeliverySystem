@@ -1,0 +1,96 @@
+﻿<resources>
+    <string name="app_name">Foodies</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_up_fb">SIGN UP WITH FACEBOOK</string>
+    <string name="sign_up_google">SIGN UP WITH GOOGLE</string>
+    <string name="change_password">Change Password</string>
+    <string name="verification">Verification</string>
+    <string name="conformation_desc">Please confirm your country code and enter your phone number</string>
+    <string name="confirm">Confirm</string>
+    <string name="sms_desc">We sent you an access code via sms for mobile number verification</string>
+    <string name="enter_code">Enter code here</string>
+    <string name="history">History</string>
+    <string name="deals">Deals</string>
+    <string name="account">Account</string>
+
+    
+    <string name="facebook_app_id" translatable="false">facebook_app_id</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb-facebook_app_id</string>
+    
+
+   
+
+
+    <string name="google_api_client_id">debug_client_auth_id_from_google_api_console</string>
+    <string name="google_gmail_release">release_client_auth_id_from_google_api_console</string>
+
+
+    
+
+
+   
+   <string name="google_api_realsekey">google_map_key_for_release_key</string>
+    <string name="google_api_debug">google_map_key_for_debug_key</string>
+
+
+  
+
+
+
+    <string name="key_for_places">google_payed_api_key_for_search_places_and_drawroute</string>
+
+
+
+
+    <string name="default_notification_channel_id">channel-01</string>
+    <string name="payment_method">Select Payment Method</string>
+    <string name="select_payment_method">SELECT PAYMENT METHOD</string>
+    <string name="add_payment_method">ADD PAYMENT METHOD</string>
+    <string name="cash_on_delivery">Cash on Delivery</string>
+    <string name="save">Save</string>
+    <string name="cancle">Cancle</string>
+    <string name="add_payment">Add Payment Method</string>
+    <string name="card_hint">Card Number</string>
+    <string name="billing_address_hint">Billing Address</string>
+    <string name="city_hint">City</string>
+    <string name="state_hint">State</string>
+    <string name="zip_hint">Zip</string>
+    <string name="card_name_hint">Name On Card</string>
+    <string name="cvc_hint">CVV</string>
+    <string name="date_hint">Validity (09/21)</string>
+    <string name="add_new_address">Add new Address</string>
+    <string name="add_address">Add Delivery Address</string>
+    <string name="house_hint">Street Address</string>
+    <string name="add_loc">Add Location</string>
+    <string name="inst_hint">Instructions</string>
+
+
+    <string name="hello_ted">Hello Ted</string>
+    <string name="order_now">Order Now</string>
+    <string name="check_out">Check Out</string>
+    <string name="show_restaurant">Show Restaurants</string>
+    <string name="welcome_txt">Welcome! Where should we deliver to?</string>
+    <string name="edit_account">Edit Account</string>
+    <string name="recover_pass">Recover Password</string>
+    <string name="recover">Recover</string>
+
+    /// All Edit Text
+
+    <string name="email_hint"><font size="14">Jhon@gmail.com</font></string>
+    <string name="password_hint"><font size="14">At least 6 character</font></string>
+    <string name="f_name"><font size="14">John</font></string>
+    <string name="l_name"><font size="14">Smith</font></string>
+    <string name="location">Location</string>
+
+
+
+    <string name="deal_content">Sorry. This restaurant doesn’t offer any deal at this moment.</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="no_deal_text">Sorry. This restaurant doesn’t offer any deal at this moment.</string>
+    <string name="uan_txt">UAN (00 111 111 111)</string>
+    <string name="uan">00111111111</string>
+    <string name="rest_not_open">Currently restaurant is not open.</string>
+
+
+</resources>

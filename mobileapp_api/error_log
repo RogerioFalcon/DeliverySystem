@@ -1,0 +1,10 @@
+[21-Mar-2019 13:03:53 Asia/Karachi] PHP Fatal error:  Call to undefined function convert_from_latin1_to_utf8_recursively() in /home/bring/public_html/foodies/mobileapp_api7/app/Controller/ApiController.php on line 1791
+[21-Mar-2019 13:04:10 Asia/Karachi] PHP Fatal error:  Call to undefined method Lib::convert_from_latin1_to_utf8_recursively() in /home/bring/public_html/foodies/mobileapp_api7/app/Controller/ApiController.php on line 1791
+[17-Sep-2019 16:34:16 Asia/Karachi] PHP Fatal error:  Cannot redeclare Tax::getCities() in /home/qboxus/apps.qboxus.com/foodies/mobileapp_api/app/Model/Tax.php on line 90
+[17-Sep-2019 16:34:35 Asia/Karachi] PHP Fatal error:  Cannot redeclare Tax::getCities() in /home/qboxus/apps.qboxus.com/foodies/mobileapp_api/app/Model/Tax.php on line 90
+[17-Sep-2019 16:34:55 Asia/Karachi] PHP Fatal error:  Cannot redeclare Tax::getCities() in /home/qboxus/apps.qboxus.com/foodies/mobileapp_api/app/Model/Tax.php on line 90
+[17-Sep-2019 16:34:58 Asia/Karachi] PHP Fatal error:  Cannot redeclare Tax::getCities() in /home/qboxus/apps.qboxus.com/foodies/mobileapp_api/app/Model/Tax.php on line 90
+[17-Sep-2019 16:35:12 Asia/Karachi] PHP Fatal error:  Cannot redeclare Tax::getCities() in /home/qboxus/apps.qboxus.com/foodies/mobileapp_api/app/Model/Tax.php on line 90
+[17-Sep-2019 16:35:18 Asia/Karachi] PHP Fatal error:  Cannot redeclare Tax::getCities() in /home/qboxus/apps.qboxus.com/foodies/mobileapp_api/app/Model/Tax.php on line 90
+[17-Sep-2019 16:43:10 Asia/Karachi] PHP Fatal error:  Cannot redeclare Tax::getCities() in /home/qboxus/apps.qboxus.com/foodies/mobileapp_api/app/Model/Tax.php on line 90
+[03-Oct-2019 13:52:36 Asia/Karachi] PHP Fatal error:  Cannot redeclare SuperAdminController::showCurrencyDetail() in /home/qboxus/apps.qboxus.com/foodies/mobileapp_api/app/Controller/SuperAdminController.php on line 3367

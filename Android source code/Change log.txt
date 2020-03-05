@@ -1,0 +1,4 @@
+com.foodies.customer >> ActivitiesAndFragments >> AddToCartActivity.java 
+com.foodies.customer >> ActivitiesAndFragments >> CartFragment.java
+com.foodies.customer >> ActivitiesAndFragments >> RestaurantMenuItemsFragment.java
+com.foodies.customer >>  Models >> CalculationModel
